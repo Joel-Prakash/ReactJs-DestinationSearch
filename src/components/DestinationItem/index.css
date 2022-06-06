@@ -1,0 +1,17 @@
+li {
+  margin: 1%;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  border-radius: 10px;
+}
+
+p {
+  font-size: 14px;
+  width: 200px;
+  font-weight: bold;
+  font-family: Open Sans;
+  color: #252627;
+}
